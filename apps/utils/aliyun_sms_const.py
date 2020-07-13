@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+
+# ACCESS_KEY_ID/ACCESS_KEY_SECRET 根据实际申请的账号信息进行替换
+ACCESS_KEY_ID = "LTAI4G7dTD7b9ChwxD4CNzAZ"
+ACCESS_KEY_SECRET = "z5ZaYQd9SAoKaBY4R6FCWdyDKsFdnN"
